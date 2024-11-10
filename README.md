@@ -4,8 +4,6 @@ Hi there 👋
 I’m currently working as a software developer where I focus on impactful projects.  
 I’m also looking to collaborate on open-source projects and contribute to the community.
 
-- 🌱 Currently learning: React.js  
-- ⚡ Fun fact: I love playing cricket in my free time!  
 
 ---
 
@@ -29,7 +27,6 @@ I’m also looking to collaborate on open-source projects and contribute to the 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)
