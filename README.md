@@ -2,6 +2,8 @@
 
 # 🌟 Bithorson S | Elite Python & Django Developer
 
+📱 **+919791528623** | 📧 **bithorson@thaagam.email** | 🌐 **[Portfolio](https://bithorson.neocities.org/bithorson/i)** | 💼 **[LinkedIn](https://www.linkedin.com/in/bithorson/)**
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Python+%26+Django+Specialist+%F0%9F%90%8D;Crafting+Scalable+Web+Solutions+%F0%9F%9A%80;API+Integration+Maestro+%F0%9F%94%97;Real-time+Systems+Architect+%E2%9A%A1)](https://git.io/typing-svg)
