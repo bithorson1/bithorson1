@@ -2,7 +2,7 @@
 
 # 🌟 Bithorson S | Elite Python & Django Developer
 
-📱 **+919791528623** | 📧 **bithorson@thaagam.email** | 🌐 **[Portfolio](https://bithorson.neocities.org/bithorson/i)** | 💼 **[LinkedIn](https://www.linkedin.com/in/bithorson/)**
+📱 **+919791528623** | 📧 **bithorson2405@gmail.com** | 🌐 **[Portfolio](https://bithorson.neocities.org/bithorson/i)** | 💼 **[LinkedIn](https://www.linkedin.com/in/bithorson/)**
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
